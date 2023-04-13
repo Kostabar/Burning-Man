@@ -1,0 +1,155 @@
+body {
+    margin: 0;
+}
+.header {
+    background: url(./img/header-bg.jpg);
+    width: 1455px;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav {
+}
+.logo {
+    padding: 57px 216px;
+}
+.nav-hover {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    margin-top: -110px;
+    margin-right: 300px;
+    font-family: 'Anton';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.nav-hover p:hover {
+    color: blue;
+}
+.nav-hover p {
+    transition: 0.7s;
+    margin-right: 40px;
+}
+.telefon p {
+    text-align: right;
+    margin-top: -35px;
+    font-family: 'Anton';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    margin-right: 80px;
+    letter-spacing: 0.1em;
+    transition: 0.7s;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.telefon p:hover {
+    color: blueviolet;
+}
+.telefon {
+    text-decoration: none;
+}
+.header-zagolovoc {
+    margin-left: 200px;
+    display: block;
+}
+.zagolovoc {
+    margin-top: 120px;
+}
+.zagolovoc p {
+    font-family: 'Anton';
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-bottom: -80px;
+}
+.zagolovoc h1 {
+    font-family: 'Anton';
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 151px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.zagolovo-botton {
+    width: 238px;
+    height: 57px;
+    background-color: rgba(0, 0, 0, 0);;
+    border: 1px solid #FFFFFF;
+    font-family: 'Anton';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-bottom: 322px;
+}
+.about {
+    margin-right: 50px;
+}
+.conteiner {
+}
+.conteiner h2 {
+    font-family: 'Anton';
+    font-weight: 400;
+    font-size: 50px;
+    margin-left: 150px;
+    margin-top: 70px;
+    line-height: 75px;
+    color: #000000;
+}
+.description {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+.description h3 {
+    font-family: 'Anton';
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
+    color: #000000; 
+    margin-bottom: 19px;
+}
+.description p {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    line-height: 26px;
+    text-align: justify;
+    width: 564px;
+    margin-bottom: 56px1;
+}
+.desc-left {
+    margin-left: 150px;
+}
+.gallery img {
+    margin-right: 30px;
+}
+.gallery-3 {
+    margin-left: 30px;
+}
+.gallery  {
+    margin-left: 150px;
+}
+.bottom {
+    margin-top: 100px;
+    margin-left: 135px;
+}
+.bottom-text {
+    display: flex;
+}
+.bottom-text p {
+    margin-right: 55px;
+    margin-bottom: 80px;
+}
+
+
